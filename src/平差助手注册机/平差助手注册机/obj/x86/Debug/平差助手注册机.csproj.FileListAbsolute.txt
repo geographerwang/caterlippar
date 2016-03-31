@@ -1,0 +1,9 @@
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\bin\Debug\平差助手注册机.exe
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\bin\Debug\平差助手注册机.pdb
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\平差助手注册机.Form1.resources
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\平差助手注册机.Properties.Resources.resources
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\平差助手注册机.exe
+D:\Person Files\练习\工作练习\平差助手注册机\平差助手注册机\obj\x86\Debug\平差助手注册机.pdb

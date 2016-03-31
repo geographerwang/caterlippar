@@ -1,0 +1,5 @@
+D:\Person Files\练习\工作练习\AdjustmentAssistant\DataType\bin\Debug\DataType.dll
+D:\Person Files\练习\工作练习\AdjustmentAssistant\DataType\bin\Debug\DataType.pdb
+D:\Person Files\练习\工作练习\AdjustmentAssistant\DataType\obj\Debug\ResolveAssemblyReference.cache
+D:\Person Files\练习\工作练习\AdjustmentAssistant\DataType\obj\Debug\DataType.dll
+D:\Person Files\练习\工作练习\AdjustmentAssistant\DataType\obj\Debug\DataType.pdb

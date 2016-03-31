@@ -1,0 +1,7 @@
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\bin\Debug\Adjustment.dll
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\bin\Debug\Adjustment.pdb
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\bin\Debug\DataType.dll
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\bin\Debug\DataType.pdb
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\obj\Debug\ResolveAssemblyReference.cache
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\obj\Debug\Adjustment.dll
+D:\Person Files\练习\工作练习\AdjustmentAssistant\Adjustment\obj\Debug\Adjustment.pdb
